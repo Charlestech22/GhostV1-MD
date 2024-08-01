@@ -48,11 +48,11 @@ GHOST-MD is a easy to use WhatsApp bot.
 # 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-* [🧑‍💻 Follow Gojou-MD Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VaYYdDj8KMqtKBq8M20G)
+* [👻 Follow GHOST-MD Whatsapp Channel👻](https://whatsapp.com/channel/0029VaYYdDj8KMqtKBq8M20G)
 
-* [🧑‍💻 Join Gojou-Md Group 🧑‍💻](https://t.me/hacktivisthive)
+* [👻 Join GHOST-MD Group 👻](https://chat.whatsapp.com/Kru7oYmtH5iE0ybzdTMhK7)
 
-* [✅ Join Public Group ⚡](https://chat.whatsapp.com/Hk4jZg8HMoH1auW2NAKazX)
+* [✅ Join Public Group ⚡](https://chat.whatsapp.com/Kru7oYmtH5iE0ybzdTMhK7)
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -60,9 +60,9 @@ GHOST-MD is a easy to use WhatsApp bot.
   
 ## 
 
-- *Gojou-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *GHOST-MD is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Gojou-Md at your own risk by keeping this warning in mind.*
+- *Use GHOST-MD at your own risk by keeping this warning in mind.*
   
   #### ```TOTAL PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/Charles/count.svg)
