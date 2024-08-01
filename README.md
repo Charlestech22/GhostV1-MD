@@ -23,7 +23,7 @@
 ## GHOST-MD Deployment Methods
 ---
 1.  **Fork Repo First, [`CLICK HERE`](https://github.com/Charlestech22/GHOST-MD/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
-2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://charles-session-id-2l42.onrender.com) 
+2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://charles-session-id-2l42.onrender.com/pair) 
  OR BY [`SCANNING QR CODE`](https://gojousession-05ea27b8ff9a.herokuapp.com/wasiqr)** 
 3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Charlestech22/GHOST-MD)**
 8. **You can visit Bot whatsapp channel [`BY CLICKING HERE`](https://whatsapp.com/channel/0029VaYYdDj8KMqtKBq8M20G) for more**
