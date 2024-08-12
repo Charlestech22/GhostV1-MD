@@ -10,7 +10,7 @@ RUN apt-get update && \
   rm -rf /var/lib/apt/lists/*
   
 RUN git clone https://github.com/Charlestech22/GHOST-MD
-WORKDIR /root/GHOST-MD/
+WORKDIR /root/charlestech22/
 
 
 COPY package.json .
