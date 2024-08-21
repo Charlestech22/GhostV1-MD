@@ -12,6 +12,7 @@ module.exports = { session: process.env.SESSION_ID || '',
     OWNER_NAME: process.env.OWNER_NAME || "Charles Tech",
     NUMERO_OWNER : process.env.OWNER_NUM || "2348033282342",              
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "non",
+    DATABASE_URL: process.env.DATABASE_URL || "postgresql://tkm:Aqi6tqwyv5IwDHncTtVi5XtMGZvfndDJ@dpg-cqahogtds78s739sl81g-a.oregon-postgres.render.com/takudzwa"
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'non',
     BOT : process.env.BOT_NAME || 'TKM bot',
     URL : process.env.BOT_MENU_LINKS || 'https://telegra.ph/file/d2bcb3a6a4c14dcfcc893.jpg',
